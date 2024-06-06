@@ -89,3 +89,15 @@ _Each module has their own scope_
 - Module caching
 - Patterns for importing and exporting modules in CommonJS and ESM Format
 - Importing JSON data and watch mode
+
+# Built-in Modules:
+
+- Modules that Node.js ships with
+- Also referred to as core modules
+- Import the module before you use it
+  _focusing on_
+  `path` **modules/path**
+  `events` **modules/events**
+  `fs`
+  `stream`
+  `http`
