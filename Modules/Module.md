@@ -98,6 +98,6 @@ _Each module has their own scope_
   _focusing on_
   `path` **modules/path**
   `events` **modules/events**
-  `fs`
+  `fs` **modules/fs**
   `stream`
   `http`
