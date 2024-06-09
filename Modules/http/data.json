@@ -1,0 +1,9 @@
+{
+  "firstName": "Bruce",
+  "lastName": "Wayne",
+  "address": {
+    "street": "203",
+    "city": "cali"
+  },
+  "jobs": ["Multi-Billionaire", "Batman"]
+}
